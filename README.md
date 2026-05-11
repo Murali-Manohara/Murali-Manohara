@@ -1,5 +1,5 @@
 # Hi, I'm Murali Manohara 👋
-### Data Analyst · Data Scientist · Business Intelligence
+### Data Analyst · Data Scientist · Business Intelligence  · Business Analyst
 
 **Bengaluru, Karnataka, India**
 
