@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://murali-manohara.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murali-Manohara)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralimanohara661@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=Murali-Manohara&color=blue&style=for-the-badge&label=VISITORS&base=644)
+![Visitors](https://komarev.com/ghpvc/?username=Murali-Manohara&color=blue&style=for-the-badge&label=VISITORS&base=767)
 
 ---
 
