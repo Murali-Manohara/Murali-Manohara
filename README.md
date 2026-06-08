@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://murali-manohara.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murali-Manohara)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralimanohara661@gmail.com)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Murali-Manohara.Murali-Manohara&left_color=gray&right_color=blue&left_text=Visitors)](https://github.com/Murali-Manohara)
 
 ---
 
@@ -27,6 +28,18 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 🎓 **Currently:** Data Science & Generative AI — Great Lakes Institute of Management *(ML · SQL · Business Analytics · LLMs · GenAI)*
 
 💼 **Open to:** Data Analyst · Business Analyst · Data Scientist — Bengaluru or Remote
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Murali-Manohara&show_icons=true&theme=tokyonight&hide_border=true" alt="Murali's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murali-Manohara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali-Manohara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -134,13 +147,6 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 |--------|------------|------|
 | PG Program — Data Science & Generative AI | Great Lakes Institute of Management, Bangalore | 2025 – 2026 |
 | B.E. — Electronics & Communication Engineering | NMAM Institute of Technology, Nitte | 2019 – 2023 |
-
----
-
-## 📈 GitHub Stats
-
-![Murali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murali-Manohara&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murali-Manohara&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
