@@ -7,13 +7,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://murali-manohara.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murali-Manohara)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralimanohara661@gmail.com)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Murali-Manohara.Murali-Manohara&left_color=gray&right_color=blue&left_text=Visitors)](https://github.com/Murali-Manohara)
+![Visitors](https://komarev.com/ghpvc/?username=Murali-Manohara&color=blue&style=for-the-badge&label=VISITORS&base=644)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a Data Science postgraduate at **Great Lakes Institute of Management**, with a background in **Electronics & Communication Engineering**. I specialize in turning raw, complex data into clear insights that drive real business decisions.
+I'm a Data Science postgraduate from **Great Lakes Institute of Management**, with a background in **Electronics & Communication Engineering**. I specialize in turning raw, complex data into clear insights that drive real business decisions.
 
 What makes my profile different: I've spent **2 years as an Associate Consultant at Great Learning**, working directly with CRM data, tracking 500+ client records, and applying data-driven segmentation to improve outreach efficiency by **8–10%** and enrollment conversion by **6–8%**. That hands-on, client-facing background gives me the ability to not just build models — but communicate findings clearly to non-technical stakeholders.
 
@@ -25,7 +25,7 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 - 🤖 **AI-Powered Apps** — Built multiple Streamlit apps using **Gemini AI** and **Groq** for resume analysis, defect detection, and a full **RAG pipeline** for LLM-powered document Q&A
 - 🎭 **Face Mask Detection** — Built during Data Science internship at Zephyr Technologies using Scikit-learn on **2,000+ image samples**, reducing manual reporting by **30%**
 
-🎓 **Currently:** Data Science & Generative AI — Great Lakes Institute of Management *(ML · SQL · Business Analytics · LLMs · GenAI)*
+🎓 **Education:** PG Program in Data Science & Generative AI — Great Lakes Institute of Management *(ML · SQL · Business Analytics · LLMs · GenAI)*
 
 💼 **Open to:** Data Analyst · Business Analyst · Data Scientist — Bengaluru or Remote
 
@@ -34,11 +34,7 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murali-Manohara&show_icons=true&theme=tokyonight&hide_border=true" alt="Murali's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murali-Manohara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murali-Manohara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -145,11 +141,11 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| PG Program — Data Science & Generative AI | Great Lakes Institute of Management, Bangalore | 2025 – 2026 |
+| PG Program — Data Science & Generative AI | Great Lakes Institute of Management, Bangalore | 2025 – 2026 ✅ |
 | B.E. — Electronics & Communication Engineering | NMAM Institute of Technology, Nitte | 2019 – 2023 |
 
 ---
 
 *"Data is not just numbers — it's the story behind every business decision."*
 
-📂 **Portfolio:** [murali-manohara.github.io](https://murali-manohara.github.io) &nbsp;|&nbsp; 📧 muralimanohara661@gmail.com
+📂 **Portfolio:** [murali-manohara.github.io](https://murali-manohara.github.io) &nbsp;|&nbsp; 📧 muralimanohara661@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/muralimanohara661/)
