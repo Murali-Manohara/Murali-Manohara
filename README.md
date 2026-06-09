@@ -141,7 +141,7 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| PG Program — Data Science & Generative AI | Great Lakes Institute of Management, Bangalore | 2025 – 2026 ✅ |
+| PG Program — Data Science & Generative AI | Great Lakes Institute of Management, Bangalore | 2025 – 2026  |
 | B.E. — Electronics & Communication Engineering | NMAM Institute of Technology, Nitte | 2019 – 2023 |
 
 ---
