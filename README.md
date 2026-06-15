@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://murali-manohara.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murali-Manohara)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralimanohara661@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=Murali-Manohara&color=blue&style=for-the-badge&label=VISITORS&base=767)
+![Visitors](https://komarev.com/ghpvc/?username=Murali-Manohara&color=blue&style=for-the-badge&label=VISITORS&base=855)
 
 ---
 
@@ -85,6 +85,16 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 
 ---
 
+### 📈 NeuroTrade — AI-Powered Stock Signal Prediction Platform
+`Python` · `XGBoost` · `LightGBM` · `LSTM` · `FastAPI` · `Machine Learning` · `Deep Learning` · `MLOps`
+
+- Designed and implemented an AI-driven stock signal prediction platform that transforms raw market data into actionable Buy, Hold, and Sell recommendations using **Machine Learning** and **Deep Learning** techniques
+- Engineered a multi-model ensemble pipeline using **XGBoost**, **LightGBM**, and **LSTM** with advanced feature engineering, sequence modeling, and stacking-based **meta learning** to improve predictive performance
+- Built a production-ready inference workflow with **FastAPI**, model serialization, automated preprocessing, and **real-time prediction** capabilities, demonstrating end-to-end **MLOps** and **deployment** skills
+- 🔗 [GitHub Repo](https://github.com/Murali-Manohara/NeuroTrade)
+
+---
+
 ### 📊 SaaS Business Intelligence & Analytics Pipeline
 `Python` · `MySQL` · `SQL` · `Tableau` · `EDA` · `Excel` · `RFM Segmentation` · `Cohort Analysis`
 
@@ -141,7 +151,7 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| PG Program — Data Science & Generative AI | Great Lakes Institute of Management, Bangalore | 2025 – 2026  |
+| PG Program — Data Science & Generative AI | Great Lakes Institute of Management, Bangalore | 2025 – 2026 ✅ |
 | B.E. — Electronics & Communication Engineering | NMAM Institute of Technology, Nitte | 2019 – 2023 |
 
 ---
