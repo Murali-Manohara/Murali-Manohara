@@ -1,5 +1,5 @@
 # Hi, I'm Murali Manohara 👋
-### Data Analyst · Data Scientist · Business Intelligence  · Business Analyst
+### AI Engineer · Forward Deployment Engineer 
 
 **Bengaluru, Karnataka, India**
 
