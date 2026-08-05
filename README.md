@@ -1,5 +1,5 @@
 # Hi, I'm Murali Manohara 👋
-### AI Engineer · Forward Deployment Engineer 
+### AI Engineer · Forward Deployed Engineer 
 
 **Bengaluru, Karnataka, India**
 
