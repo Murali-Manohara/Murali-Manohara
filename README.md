@@ -27,7 +27,7 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 
 🎓 **Education:** PG Program in Data Science & Generative AI — Great Lakes Institute of Management *(ML · SQL · Business Analytics · LLMs · GenAI)*
 
-💼 **Open to:** Data Analyst · Business Analyst · Data Scientist — Bengaluru or Remote
+💼 **Currently:** AI Engineer Trainee (Forward Deployed Engineer) at **Tibil Solutions**, Bengaluru
 
 ---
 
@@ -142,8 +142,12 @@ What makes my profile different: I've spent **2 years as an Associate Consultant
 
 | Role | Company | Period |
 |------|---------|--------|
+| AI Engineer Trainee *(Forward Deployed Engineer)* | Tibil Solutions | Aug 2026 – Present |
 | Associate Consultant | Great Learning | Jul 2023 – Jun 2025 |
 | Data Science Intern | Zephyr Technologies & Solutions | Jul 2022 – Aug 2022 |
+
+**@ Tibil Solutions — Training Focus:**
+`Python` · `SQL` · `Data Analysis` · `Machine Learning` · `Deep Learning` · `Generative AI` · `AI Deployment` · `Cloud AI Services` · `RAG`
 
 ---
 
